@@ -14,6 +14,16 @@ background-color: white;
 
 
 }
+
+.product__rating {
+  display: flex;
+
+
+}
+
+
+
+
 .product > img{
   max-height: 200px;
   width: 100%;
@@ -33,9 +43,12 @@ background-color: white;
 
 .product__price{
   margin-top: 5px;
+  font-weight: 900;
 }
+
 .product__info{
   height: 100px;
   margin-bottom: 15px;
+  font-size: small;
 
 }
