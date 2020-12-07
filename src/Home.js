@@ -3,8 +3,7 @@ import "./Home.css";
 import Product from "./Product.js";
 
 function Home() {
-  return (
-    
+  return (    
       <div className="home">
       <div className="home__container">
         <img
@@ -63,9 +62,6 @@ function Home() {
           />
           
         </div>
-
-
-
         </div>
     </div>
   );
